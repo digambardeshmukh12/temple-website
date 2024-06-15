@@ -6,8 +6,7 @@ import { HomeComponent } from './home/home.component';
 import { CommitteeMembersComponent } from './committee-members/committee-members.component';
 import { TrusteesComponent } from './trustees/trustees.component';
 import { AboutUsComponent } from './about-us/about-us.component';
-import { LanguageSelectorComponent } from './language-selector/language-selector.component';
-import { HeaderComponent } from './header/header.component';
+ import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { AppRoutingModule } from './app-routing.module';
 import { GoogleAdComponent } from './google-ad/google-ad.component';
@@ -19,8 +18,7 @@ import { GoogleAdComponent } from './google-ad/google-ad.component';
     CommitteeMembersComponent,
     TrusteesComponent,
     AboutUsComponent,
-    LanguageSelectorComponent,
-    HeaderComponent,
+     HeaderComponent,
     FooterComponent,
     GoogleAdComponent
   ],
